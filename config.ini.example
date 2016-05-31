@@ -1,0 +1,9 @@
+bot_email = email
+bot_password = password
+
+db_host = localhost
+db_username = username
+db_password = password
+db_database = alliance_auth
+
+api_command_delay = 0.5
